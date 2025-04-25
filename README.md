@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi, I’m Anand Sah 👋      
 
 <!--
 **aanandshah8/aanandshah8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+👀 I’m interested in full-stack web development and UI/UX design.
+
+🌱 I’m currently learning advanced concepts of React, Node.js, and exploring Next.js.
+
+💞️ I’m looking to collaborate on open-source projects related to web development, especially those involving the MERN stack.- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
